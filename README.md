@@ -1,4 +1,4 @@
-Note Keeper Application made with React.js
+Note Keeper Application made with React.js as part of a Web Development Bootcamp.
 
 # Getting Started with Create React App
 
